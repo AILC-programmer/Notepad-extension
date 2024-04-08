@@ -1,0 +1,15 @@
+D:\Projects\C#\NotepadExtension\NotepadExtension\obj\Debug\NotepadExtension.csproj.AssemblyReference.cache
+D:\Projects\C#\NotepadExtension\NotepadExtension\obj\Debug\NotepadExtension.Properties.Resources.resources
+D:\Projects\C#\NotepadExtension\NotepadExtension\obj\Debug\NotepadExtension.csproj.GenerateResource.cache
+D:\Projects\C#\NotepadExtension\NotepadExtension\obj\Debug\NotepadExtension.csproj.CoreCompileInputs.cache
+D:\Projects\C#\NotepadExtension\NotepadExtension\bin\Debug\NotepadExtension.dll.config
+D:\Projects\C#\NotepadExtension\NotepadExtension\bin\Debug\NotepadExtension.dll
+D:\Projects\C#\NotepadExtension\NotepadExtension\bin\Debug\NotepadExtension.pdb
+D:\Projects\C#\NotepadExtension\NotepadExtension\bin\Debug\Explorer.PluginManager.dll
+D:\Projects\C#\NotepadExtension\NotepadExtension\bin\Debug\Extentions.dll
+D:\Projects\C#\NotepadExtension\NotepadExtension\bin\Debug\MetroFramework.dll
+D:\Projects\C#\NotepadExtension\NotepadExtension\bin\Debug\Explorer.PluginManager.pdb
+D:\Projects\C#\NotepadExtension\NotepadExtension\bin\Debug\Extentions.pdb
+D:\Projects\C#\NotepadExtension\NotepadExtension\obj\Debug\NotepadExtension.csproj.CopyComplete
+D:\Projects\C#\NotepadExtension\NotepadExtension\obj\Debug\NotepadExtension.dll
+D:\Projects\C#\NotepadExtension\NotepadExtension\obj\Debug\NotepadExtension.pdb
